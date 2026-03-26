@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code session state (personal, not shareable)
+.claude/settings.json
+.claude/settings.local.json
+.claude/skill-usage-log.jsonl
+.claude/handoffs/*-auto-session-log.md
+
+# Memory (personal per-user)
+memory/
+MEMORY.md
+
+# Product brain (personal content)
+_product-brain/*.md
+!_product-brain/TEMPLATE.md
+
+# Handoffs (personal session state)
+_context/handoffs/*.md
+!_context/handoffs/EXAMPLE-handoff.md
+
+# Scratch space
+_scratch/
+
+# Autonomous mode state
+autonomous/
+
+# MCP configuration (contains personal API keys)
+.mcp.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
