@@ -68,6 +68,28 @@ Read [docs/PRACTICE.md](docs/PRACTICE.md) for the full system philosophy. The sh
 
 Senior PMs, product leads, and engineering managers who use Claude Code daily and want their AI workflow to compound over time instead of resetting every session.
 
+## Community
+
+Join the Builder's Operating System community on Discord. Share custom skills, get setup help, and connect with other PMs running AI-native workflows.
+
+<!-- TODO: Replace with actual Discord invite link -->
+**[Join Discord](https://discord.gg/PLACEHOLDER)** | First 50 members get free Pro access (3 months)
+
+## Premium Skill Packs
+
+The free system covers every PM. Premium packs go deeper for specific roles:
+
+| Pack | Skills | For who | Price |
+|------|--------|---------|-------|
+| [Growth PM Pack](https://gumroad.com/PLACEHOLDER) | 7 | Experiment design, funnel analysis, retention | $39 |
+| [Platform PM Pack](https://gumroad.com/PLACEHOLDER) | 6 | API reviews, DX audits, breaking changes | $39 |
+| [EM Pack](https://gumroad.com/PLACEHOLDER) | 7 | 1:1 prep, team health, perf reviews, hiring | $39 |
+| [Complete Bundle](https://gumroad.com/PLACEHOLDER) | 20 + playbook | All packs + PM & AI Playbook PDF | $149 |
+
+## Contributing
+
+Found a bug? Have a skill idea? Open an issue or PR. All contributions welcome.
+
 ## License
 
 MIT
